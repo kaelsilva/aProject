@@ -12,7 +12,7 @@ public class Main {
         ControladorListaDeProverbios novoControlador = new ControladorListaDeProverbios();
         
         /*Exibindo na tela o provérbio aleatório*/
-        System.out.print(novoControlador.getListaManipulada().getLista().get(n));
+        System.out.print(novoControlador.getListaManipulada().getLista().get(n)+"\n");
         return;
     }
 
