@@ -1,7 +1,7 @@
 # aProject
 Um fornecedor de provérbios aleatórios usando Java.  
 # Pré-requisitos
-JDK 8  
+JDK 11  
 # Execução
 1. Entre na pasta aProject/src através de um terminal.  
 2. Compile Main.java, ListaDeProverbios.java e ControladorListaDeProverbios.java através do comando `javac Main.java ListaDeProverbios.java ControladorListaDeProverbios.java`  
